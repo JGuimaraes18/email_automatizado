@@ -4,7 +4,7 @@ Desenvolvido em 02/2024 por João Guimarães
 
 NECESSÁRIO ARQUIVO .ENV COMO NO EXEMPLO ABAIXO:
 
-smtp_server = s
+smtp_server =
 smtp_port = 
 smtp_username = 
 smtp_password = 
